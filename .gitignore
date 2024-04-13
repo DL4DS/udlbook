@@ -22,4 +22,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# local python virtual environment
 .venv/
+
+# local copies of other figures and ppts from book webste
+PDFFigures/UDLChap14PDF/
+PDFFigures/UDLChap15PDF/
+PDFFigures/UDLChap1PDF/
+PDFFigures/UDLChap3PDF/
+SVGFigures/
+PPT_Figures/
+Slides/slides_from_udlbook_io/
